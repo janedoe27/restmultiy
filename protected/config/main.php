@@ -76,10 +76,10 @@ return array(
 				
 		'db'=>array(	        
 		    'class'            => 'CDbConnection' ,
-			'connectionString' => 'mysql:host=localhost;dbname=restomulti',
+			'connectionString' => 'mysql:host=us-cdbr-iron-east-05.cleardb.net;dbname=heroku_a2604b1704e25a7',
 			'emulatePrepare'   => true,
-			'username'         => 'root',
-			'password'         => '',
+			'username'         => 'b728246a4b7b2f',
+			'password'         => '22664a63',
 			'charset'          => 'utf8',
 			'tablePrefix'      => 'mt_',
 	    ),
